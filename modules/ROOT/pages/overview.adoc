@@ -1,14 +1,28 @@
 = Architecture Best Practices
 :description: Personal collection of common best practices for Software Architecture
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+"Software architecture is what we all want, what everyone does and what everyone misses"
+-- Oliver B. Fischer
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+A site what deals with software architecture should actually begin with a convincing definition of the term software architecture.
+I have deliberately refrained from doing so at this point.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Because I am here not to create a standard corpus for software architecture.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+== Our learning path is paved with...
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Over the years of my work as a software developer and architect, I have repeatedly observed that in the field of software architecture, we seek new standards and solutions with every project and are always reinventing the wheel.
+Just as Andie MacDowell and Bill Murray experience it in the movie “Groundhog Day”, we practice software architecture. We start out ignorant, not knowing, and work our way forward. Trial and error.
 
+And our learning path is paved with projects that reflect our level of knowledge and our mistakes. This does not mean that we have not been successful with what we have done in detail. And even if the project has failed, this often has nothing to do with the software architecture and technology. In most cases, it is often a question of social interaction within the project and the organization carrying out the project.
 
+But that shouldn't stop us from getting better in the area of software architecture and falling back on tried and tested solutions.
+That is why I have started to compile my own experience from the last few decades on this site.
+
+== Why I created this site
+
+My initial motivation was to write down all the knowledge for myself so that I could easily access it myself and share it with others. Instead of writing down the same solution over and over again and explaining it to other people, I just want to be able to send a link to one of these pages from this area. I would like to be able to exchange technical information with all the steakholders involved more quickly.
+
+== I am not perfect
+
+I cannot and will not claim to be absolute, nor would I claim that there are no better approaches to certain problems. But if this work helps us to become a little better and achieve the goals we have a little more relaxed, then this page has achieved its goal.
