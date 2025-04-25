@@ -1,0 +1,2 @@
+An Architectural Board consists of a group of specialists who are responsible for the software and system architecture for a specific area of competence in an organization, for a single project, or a single system.
+It is responsible for developing the strategy for the area of competence it is responsible for, identifying relevant topics at macro-architectural level, making decisions on these topics and implementing them, including communicating them.
