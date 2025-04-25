@@ -1,0 +1,9 @@
+https://docs.asciidoctor.org/asciidoc/latest/sections/bibliography/
+
+Helmut Balzert
+Lehrbuch der Software-Technik
+Band 1
+2. Auflage, 2000
+1. Nachdruck 2001
+Spektrum Akademischer Verlag
+Heidelberg, Berlin
