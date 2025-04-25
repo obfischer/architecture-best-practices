@@ -1,0 +1,78 @@
+= Architectural Board
+
+// todo Darauf hinweisen, dass das AB ein Mittel der Architecture Governance ist.
+
+An Architectural Board is a steering tool for implementing the architecture governance of an organization.
+
+== Definition
+
+include::partial$def-architectural-board.adoc[]
+
+== Structure of the Architectural Board
+
+The architectural committee should include representatives of all stakeholders responsible for the area in question.
+Depending on the area, this should include not only technical but also business representatives.
+In addition to their work on the Board, the members of the Architectural Board should also be involved in the implementation of decisions in order to contribute their practical experience to the Architectural Board.
+
+== Responsibilities of the Board
+
+- Defining, updating and abolishing standards for its area of responsibility
+- Communicating the decision to all relevant stakeholders
+- Advising on the implementation of and compliance with the standards
+- Coordinating the interests and options of all stakeholders
+- Evaluating technologies
+- Coordinating the implementation of decisions made by the Architecture Board
+- Provisioning of documentation, instructions and training
+
+== What duties does the Architectural Board not have?
+
+The Architectural Board does not implement decisions and enforce standards on its own.
+These tasks must be carried out by the organization and its teams.
+They can only be established and acceptance can only be created if they are implemented across the board.
+
+== Benefits of an Architectural Board
+
+- Decisions are made in the board and thus placed on a broader basis, which is characterized by different experiences and perspectives.
+- Knowledge of the architecture is distributed among many people, which reduces the risk of knowledge silos developing and the organization becoming dependent on individual people.
+- The higher capacity means that several topics can be processed and implemented in parallel.
+
+== Disadvantages of an Architectural Board
+
+- Decision-making processes can take longer due to the necessary coordination.
+
+== Prerequisites for an Architectural Board
+
+In order for an architecture board to be effective, the architecture board must work closely with the organization's management and know its goals. This is the only way to create an architecture that supports the organization's goals.
+
+== Best practices for an Architectural Board
+
+- Decisions and the reasons for them should be presented to the relevant public on a regular basis
+
+- Get in contact on a regular basis with the teams in 1:1 to get feedback on the decisions made
+
+- The silent voices should be heard just as much as the loud ones.
+  The loud voices will make themselves heard
+
+- Ask the business for their problems
+
+- Ask the teams for their problems
+
+- Ask the teams about their opinion on the work of the architecture board
+
+- Ask the business about their opinion on the work of the architecture board
+
+- Ensure a trustful environment to get honest feedback
+
+- Make your work transparent if you can't explain why and the criterias for this decision
+
+
+== Communication
+
+- An Architecture Board must be reachable in order to be available for implementation questions and to receive suggestions.
+  Dedicated channels in Slack or Teams are ideal for this.
+
+- The issues discussed in the Architecture Board must be transparently traceable.
+  Issue trackers such as in Jira, GitHub or GitLab make it possible to make the work transparent.
+
+- Decisions made by the Architecture Board must be documented and easy to find. Ideally in the form of Architecture Decision Records.
+

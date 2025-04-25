@@ -7,4 +7,5 @@ asciidoc:
     page-toclevels: 3
 
 nav:
+  - modules/organisation/nav.adoc
   - modules/ROOT/nav.adoc
