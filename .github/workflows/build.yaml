@@ -18,5 +18,6 @@ jobs:
         run: npm clean-install
       - name: Test jq
         run: jq --version
+      - run: ruby -r yaml -r json -e 'puts YAML.load($stdin.read).to_json'
       - name: Generate Site
         run: npx antora antora-playbook.yml
