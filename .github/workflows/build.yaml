@@ -16,5 +16,7 @@ jobs:
           node-version: '18'
       - name: Install Antora
         run: npm clean-install
+      - name: Test jq
+        run: jq --version
       - name: Generate Site
         run: npx antora antora-playbook.yml
