@@ -1,6 +1,6 @@
 site:
   title: Body of Knowledge for Software Architecture
-  start_page: swarch::overview.adoc
+  start_page: swarch::index.adoc
 
 content:
   sources:
