@@ -1,0 +1,13 @@
+= Relevant definitions in the context of Software Architecture
+
+== Why definitions are important
+
+The human mind can imagine many things for which we don't have a name, not even a concrete definition.  As long as we deal with these topics on our own, it is perfectly sufficient, because our brain is able to work with abstract concepts based on its imagination.
+
+However, as soon as we have to work together with others, it is important not only to be able to name things, but also to develop a shared understanding of them. Only in this way are we able to develop a common model of understanding and our collaboration is successful beyond the boundaries of space and time.
+
+It is therefore important to give abstract concepts, such as software architecture, a name and also a common definition to help us do this.
+
+Even reading others' definitions can help us discover new aspects of things we thought we already understood.
+
+That is why I have started to collect definitions on this page
