@@ -1,0 +1,14 @@
+= Ralph Johnsons Definition of Software Architecture
+
+[quote,Ralph Johnsons]
+____
+pass:[[i.e., Software architecture is]]
+the design decisions that need to be made early in a project
+____
+
+[quote,Ralph Johnsons]
+____
+Architecture is about the important stuff. Whatever that is.
+____
+
+// Found here https://martinfowler.com/architecture/

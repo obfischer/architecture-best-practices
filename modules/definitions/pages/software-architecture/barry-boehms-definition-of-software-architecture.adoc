@@ -1,0 +1,14 @@
+= https://de.wikipedia.org/wiki/Barry_W._Boehm[Barry Boehms] Definition of Software Architecture
+
+[quote,Boehm et al., 1995]
+____
+A software system architecture comprises
+
+- A collection of software and system components,
+connections, and constraints.
+- A collection of system stakeholders’ need statements.
+- A rationale which demonstrates that the components,
+connections, and constraints define a system that, if
+implemented, would satisfy the collection of system
+stakeholders’ need statements.
+____
