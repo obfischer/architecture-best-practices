@@ -1,0 +1,17 @@
+= What is Software Architecture
+
+There is no standardised, universally shared definition of what software architecture is.
+I have therefore compiled a small collection myself on this page.
+Some of these definitions are serious, others are more of a joke, but with a serious core.
+The fact that there are so many definitions also shows how broad the spectrum is that we deal with in this area.
+
+For a while, the Software Engineering Institute at Carnegie Mellon University offered a long list of definitions.
+This is still available in the https://web.archive.org/web/20070921173410/http://www.sei.cmu.edu/architecture/community_definitions.html[Internet Archive under Community Software Architecture Definitions^].
+
+:leveloffset: +1
+
+include::barry-boehms-definition-of-software-architecture.adoc[]
+include::ralph-johnsons-definition-of-software-architecture.adoc[]
+include::rick-hayes-roth-definition-of-software-architecture.adoc[]
+
+:leveloffset: -1

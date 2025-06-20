@@ -1,0 +1,6 @@
+= https://en.wikipedia.org/wiki/Rick_Hayes-Roth[Rick Hayes-Roth] Definition of Software Architecture
+
+[quote,Rick Hayes-Roth, 1994]
+____
+pass:[..]an abstract system specification consisting primarily of functional components described in terms of their behaviors and interfaces and component-component interconnections.
+____
