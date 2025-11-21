@@ -1,0 +1,13 @@
+= The "Boring Software" manifesto
+
+The Boring Software Manifesto calls for the use of more well-understood and mastered software and architectural patterns that are so boring that anyone can understand, develop and maintain them.
+
+[quote,Maurits van der Schee]
+____
+As software developers we are tired of the false claims made by evangelists of the latest and greatest technology. We will no longer confront them with their lack of understanding of computer science fundamentals, nor will we defend our lack of knowledge of their hyped and volatile technologies.
+____
+
+The manifest can be found at https://www.tqdev.com/2018-the-boring-software-manifesto/.
+
+
+include::partial$why-read-manifests.adoc[leveloffset=+1]

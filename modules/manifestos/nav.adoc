@@ -1,0 +1,2 @@
+* Manifestos
+** xref:boring-software.adoc[]
