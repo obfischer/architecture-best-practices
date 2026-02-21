@@ -1,2 +1,3 @@
 * Manifestos
 ** xref:boring-software.adoc[]
+** xref:open-operations-manifesto.adoc[]
