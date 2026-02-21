@@ -1,0 +1,14 @@
+= Open Operations Manifesto
+
+The Open Operations Manifesto sets out the key principles for sharing knowledge on building and operating infrastructure of all kinds by establishing a community of practice, thereby ensuring successful operation.
+
+[quote,Open Operations Manifesto]
+____
+We proclaim our primary objectives to be transparency along with the sharing of knowledge and are in the process of building a community of practice – Open Operations.
+
+Open Source technology has become increasingly mature. However, the greatest software is useless if it cannot be operated with full confidence. For this to happen, it is imperative that skills and knowledge be built up, fostered, and retained. In an increasingly competitive market for skilled people and increasingly complex IT systems, this is becoming an ever greater challenge for governments, institutions, and companies. How can we operate digital offerings in a self-determined, secure, and supremely excellent manner?
+____
+
+The manifest can be found at https://openoperations.org/.
+
+include::partial$why-read-manifests.adoc[leveloffset=+1]
