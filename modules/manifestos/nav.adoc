@@ -3,3 +3,4 @@
 ** xref:joel-test.adoc[The Joel Test]
 ** xref:open-operations-manifesto.adoc[]
 ** xref:robustness-principle.adoc[Postels Law]
+** xref:reactive-manifesto.adoc[Reactive Manifesto]
