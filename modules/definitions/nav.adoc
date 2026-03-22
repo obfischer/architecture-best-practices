@@ -1,3 +1,3 @@
 * Definitions
-** xref:index.adoc[Definitions for Software Architecture]
-** xref:software-architecture/index.adoc[]
+** xref:index.adoc[Relevant Definitions]
+** xref:software-architecture/index.adoc[Software Architecture]
