@@ -1,0 +1,14 @@
+= The Joel Test: 12 Steps to Better Code
+
+[quote, Joel Spolsky]
+____
+The neat thing about The Joel Test is that it’s easy to get a quick yes or no to each question. You don’t have to figure out lines-of-code-per-day or average-bugs-per-inflection-point. Give your team 1 point for each “yes” answer. The bummer about The Joel Test is that you really shouldn’t use it to make sure that your nuclear power plant software is safe.
+____
+
+The Joel Test is not a manifesto in the strict sense of the word; rather, it consists of 12 questions that can serve as a simple assessment of the maturity of a software development team or an entire organisational unit.
+
+The questions are designed to be answered simply with ‘yes’ or ‘no’, and the result can be used as a score.
+
+The manifest can be found at https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/[^].
+
+include::partial$why-read-manifests.adoc[leveloffset=+1]
