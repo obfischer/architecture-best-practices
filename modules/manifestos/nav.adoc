@@ -1,3 +1,4 @@
 * Manifestos
 ** xref:boring-software.adoc[]
+** xref:joel-test.adoc[The Joel Test]
 ** xref:open-operations-manifesto.adoc[]
