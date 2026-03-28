@@ -1,0 +1,19 @@
+= The Robustness Principle aka Postel's Law
+
+[quote,Robustness Principle, Jon Postel (RFC 761)]
+____
+[TCP implementations should follow a general principle of robustness:] Be conservative in what you do, be liberal in what you accept from others.
+____
+
+Jon Postel was a figure of immense importance to the development of the internet.
+For more than thirty years, he served as editor of the Requests for Comments (RFCs), authored more than 200 RFCs himself, established the Internet Assigned Numbers Authority (IANA)[Internet Assigned Numbers Authority[(IANA)^], and was a founding member of the Internet Society https://www.internetsociety.org/[Internet Society^]footnote:[https://en.wikipedia.org/wiki/Jon_Postel].
+
+The Robustness *Principle* was part of the first RFC on the Transmission Control Protocol.
+Given the highly heterogeneous nature of systems at the time and the early stage of TCP/IP development, implementations differed from one another in detail.
+It was therefore important for each implementation to be as fault-tolerant as possible, in order to enable the individual systems to interact at all.
+Each implementation should be as robust as possible in order to cope with errors on the other side, whilst ideally still enabling communication.
+
+This approach can be applied, in its fundamental principle, to almost all areas of IT: *always assume that whatever can go wrong will eventually go wrong, and try to deal with it.
+But try to be as accurate as possible in what you do.*
+
+include::partial$why-read-manifests.adoc[leveloffset=+1]
